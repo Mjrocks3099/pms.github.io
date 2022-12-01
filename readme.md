@@ -16,7 +16,7 @@
 - **Uploaded/Published at:** [https://www.kashipara.com/project/php/8527/patient-management-system-updated-](https://www.kashipara.com/project/php/8527/patient-management-system-updated-) 
 ==========================================================
 #### ** Modified Version**
-- **Modified By:** oretnom23
+- **Modified By:** Maulik
 - **Published at:** [https://sourcecodester.com/php-clinics-patient-management-system-source-code](https://sourcecodester.com/php-clinics-patient-management-system-source-code) 
 
 ==========================================================
